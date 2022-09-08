@@ -1,0 +1,15 @@
+.h{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    color: white;
+    background: pink;
+}
+#s,#a,#bo{
+    color:darkviolet;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+}
